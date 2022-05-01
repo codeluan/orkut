@@ -1,4 +1,6 @@
 ## Instalação
+
+SISTEMA FEITO EM PHP 7 MVC
 Você pode clonar este repositório OU baixar o .zip
 
 Ao descompactar, é necessário rodar o **composer** pra instalar as dependências e gerar o *autoload*.
