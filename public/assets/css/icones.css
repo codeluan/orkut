@@ -1,0 +1,105 @@
+.icone-perfil {
+    width: 12px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -13px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.icone-recados {
+    width: 12px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -25px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.icone-album {
+    width: 14px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -37px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+.icone-videos {
+    width: 14px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -51px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.icone-depoimentos {
+    width: 12px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -105px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.icone-addapps {
+    width: 14px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) 0 -41px;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+.icone-listas {
+    width: 12px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -79px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+.icone-updates {
+    width: 14px;
+    height: 13px;
+    background: url(../../assets/images/sprite.png) -27px -15px;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.icone-configuracoes {
+    width: 14px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -117px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+.icone-fas {
+    width: 14px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -143px 0;
+    display: block;
+    float: left;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.icone-confiavel {
+    width: 47px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -319px 0;
+}
+.icone-legal {
+    width: 47px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -366px 0;
+}
+.icone-sexy {
+    width: 47px;
+    height: 14px;
+    background: url(../../assets/images/sprite.png) -413px 0;
+}

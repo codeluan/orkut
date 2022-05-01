@@ -1,0 +1,18 @@
+<div class="depoimento">
+	<div class="fic-item row">
+            <div class="depoimento-Img topicosAvatar">
+                <a href="<?=$base;?>/perfil/uid=<?=$data->user->id;?>"><img src="<?=$base;?>/media/avatars/<?=$data->user->avatar;?>" /></a>
+            </div>
+            <div class="fic-item-info topicosContent">
+                <a class="topicosContent" href="<?=$base;?>/perfil/uid=<?=$data->user->id;?>"><?=$data->user->name;?></a>
+                <b><?=nl2br($data->assunto);?></b><br>
+                <?=nl2br($data->body);?>
+            </div>
+            
+
+            <div class="fic-item-info postagens ultimas">
+            <?=date('d/m/Y H:i', strtotime($data->created_at)-10800);?>
+            
+            </div>
+    </div>		
+ </div>
